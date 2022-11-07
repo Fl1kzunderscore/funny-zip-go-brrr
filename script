@@ -1,6 +1,5 @@
 <script>
-for (let i = 0; i < 5; i--) {
-  window.open()
+for (let i = 0; i < 1; i--) {
+  window.open(https://en.wiktionary.org/wiki/skill_issue#:~:text=Interjection,Skill%20issue%20lol,Skill Issue, "width=800,height=800")
 }
-
 </script>
